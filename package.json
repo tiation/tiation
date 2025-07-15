@@ -1,0 +1,34 @@
+{
+  "name": "tiation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiation monorepo - fast and beautiful applications",
+  "author": "Tiation Team",
+  "license": "MIT",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "test": "turbo test",
+    "clean": "turbo clean",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\"",
+    "type-check": "turbo type-check",
+    "deploy": "turbo deploy"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "api/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "prettier": "^3.0.0",
+    "turbo": "^1.10.0",
+    "typescript": "^5.0.0"
+  },
+  "packageManager": "pnpm@8.10.0",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}
