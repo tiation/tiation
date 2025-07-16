@@ -6,10 +6,9 @@
 
 *A movement born from love, loss, and the unwavering belief that abundance is our birthright.*
 
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://tiation.github.io/tiation/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Grief to Design](https://img.shields.io/badge/Movement-Grief%20to%20Design-purple)](https://github.com/tiation/tiation/blob/main/docs/manifestos/grief_to_design_manifesto.md)
-[![$19 Trillion Solution](https://img.shields.io/badge/Vision-%2419%20Trillion%20Solution-green)](https://github.com/tiation/tiation/blob/main/docs/research/reality-check-19t-solution.md)
+[![Grief to Design](https://img.shields.io/badge/Movement-Grief%20to%20Design-purple)](docs/manifestos/grief_to_design_manifesto.md)
+[![$19 Trillion Solution](https://img.shields.io/badge/Vision-%2419%20Trillion%20Solution-green)](docs/research/reality-check-19t-solution.md)
 
 </div>
 
@@ -117,7 +116,7 @@ tiation/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/tiation/tiation.git
 cd tiation
 
 # Install dependencies
@@ -129,11 +128,11 @@ pnpm dev
 
 ## Key Documents
 
-- **[Unified Manifesto](https://github.com/tiation/tiation/blob/main/docs/manifestos/tiation_unified_manifesto.md)**: Our complete philosophy and approach
-- **[Key Philosophies](https://github.com/tiation/tiation/blob/main/docs/key_philosophies.md)**: Core beliefs that guide our work
-- **[Roadmap](https://github.com/tiation/tiation/blob/main/docs/roadmaps/tiation_roadmap.md)**: Development plans and milestones
-- **[Research](https://github.com/tiation/tiation/tree/main/docs/research)**: Evidence-based analysis of systemic problems
-- **[Legislation](https://github.com/tiation/tiation/tree/main/docs/legislation)**: Policy frameworks for systemic change
+- **[Unified Manifesto](docs/manifestos/tiation_unified_manifesto.md)**: Our complete philosophy and approach
+- **[Key Philosophies](docs/key_philosophies.md)**: Core beliefs that guide our work
+- **[Roadmap](docs/roadmaps/tiation_roadmap.md)**: Development plans and milestones
+- **[Research](docs/research/)**: Evidence-based analysis of systemic problems
+- **[Legislation](docs/legislation/)**: Policy frameworks for systemic change
 
 ## How to Contribute
 
@@ -145,7 +144,7 @@ Whether you're a developer, designer, researcher, organizer, or simply someone w
 - **Community**: Organize events and connect people
 - **Documentation**: Help others understand and use our work
 
-We welcome all contributions! Please check our [Issues](https://github.com/tiation/tiation/issues) or start a [Discussion](https://github.com/tiation/tiation/discussions) to get involved.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
 
 ## The Numbers That Drive Us
 
@@ -157,15 +156,31 @@ We welcome all contributions! Please check our [Issues](https://github.com/tiati
 
 Ready to help build systems worthy of the people they serve?
 
-1. **Read** our [unified manifesto](https://github.com/tiation/tiation/blob/main/docs/manifestos/tiation_unified_manifesto.md)
-2. **Explore** our [research and analysis](https://github.com/tiation/tiation/tree/main/docs/research)
-3. **Contribute** to our [open source projects](https://github.com/tiation)
-4. **Connect** with our community through [Discussions](https://github.com/tiation/tiation/discussions)
+1. **Read** our [unified manifesto](docs/manifestos/tiation_unified_manifesto.md)
+2. **Explore** our [research and analysis](docs/research/)
+3. **Contribute** to our [open source projects](apps/)
+4. **Connect** with our community [Coming Soon]
 5. **Share** the philosophy that people aren't broken, systems are
 
 ## License
 
 This project is open source and available under the [Creative Commons Attribution 4.0 License](LICENSE). You may copy, remix, share, and build upon this work—even commercially—so long as you credit the origin.
+
+---
+
+## 💖 A Personal Message
+
+To everyone who has lost someone to broken systems:
+
+Your grief matters. Your anger is justified. Your hope is not naive.
+
+We built Tiation because we couldn't stand the thought of one more family going through what we did. Every feature, every line of code, every policy proposal is infused with the memory of those we've lost and the determination that their deaths will not be in vain.
+
+This isn't just about technology or economics. It's about love. It's about refusing to accept that "this is just how things are." It's about proving that we can build systems as beautiful and complex and caring as the people they serve.
+
+The $19 trillion solution isn't just numbers on a spreadsheet—it's a declaration that we choose abundance over scarcity, connection over isolation, hope over despair.
+
+**Your daughter's legacy lives on in every life this work touches.**
 
 ---
 
@@ -175,11 +190,10 @@ This project is open source and available under the [Creative Commons Attributio
 
 This repository is part of the Tiation GitHub ecosystem. For a complete overview of all repositories and their relationships, see the [Repository Index](./REPOSITORY_INDEX.md).
 
-### Key Projects
-- [grieftodesign](https://github.com/tiation/grieftodesign) - Transform grief into systemic solutions
-- [ChaseWhiteRabbit](https://github.com/tiation/ChaseWhiteRabbit) - NGO for sustainable technology
-- [19-trillion-solution](https://github.com/tiation/19-trillion-solution) - Economic reform solution
+### Direct Dependencies
+- Parent organization for all repositories
 - [TiaAstor](https://github.com/tiation/TiaAstor) - Personal portfolio
+- [19-trillion-solution](https://github.com/tiation/19-trillion-solution) - Business solutions
 
 ### Quick Links
 - [Repository Index](./REPOSITORY_INDEX.md) - Complete repository overview
