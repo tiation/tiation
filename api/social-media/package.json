@@ -1,0 +1,45 @@
+{
+  "name": "@tiation/social-media-api",
+  "version": "1.0.0",
+  "description": "Social Media API integrations for Tiation platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "social-media",
+    "api",
+    "twitter",
+    "instagram",
+    "facebook",
+    "linkedin",
+    "tiktok",
+    "youtube",
+    "pinterest",
+    "reddit"
+  ],
+  "author": "Tiation",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.6.1",
+    "express": "^4.18.2",
+    "fb": "^2.0.0",
+    "googleapis": "^128.0.0",
+    "instagram-private-api": "^1.45.3",
+    "node-cron": "^3.0.3",
+    "rate-limiter-flexible": "^3.0.6",
+    "snoowrap": "^1.23.0",
+    "twitter-api-v2": "^1.24.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2"
+  }
+}
