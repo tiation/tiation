@@ -2,13 +2,16 @@
 
 <div align="center">
 
+![Tiation Ecosystem Banner](https://img.shields.io/badge/🔮_TIATION_ECOSYSTEM-Transforming_Grief_Into_Hope-00FFFF?style=for-the-badge&labelColor=0A0A0A&color=FF00FF)
+
 **"People aren't broken. Systems are. We can fix the systems."**
 
 *A movement born from love, loss, and the unwavering belief that abundance is our birthright.*
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Grief to Design](https://img.shields.io/badge/Movement-Grief%20to%20Design-purple)](docs/manifestos/grief_to_design_manifesto.md)
-[![$19 Trillion Solution](https://img.shields.io/badge/Vision-%2419%20Trillion%20Solution-green)](docs/research/reality-check-19t-solution.md)
+[![License](https://img.shields.io/badge/📄_License-CC_BY_4.0-00FFFF?style=flat-square&labelColor=0A0A0A)](https://creativecommons.org/licenses/by/4.0/)
+[![Grief to Design](https://img.shields.io/badge/🎨_Movement-Grief_to_Design-FF00FF?style=flat-square&labelColor=0A0A0A)](docs/manifestos/grief_to_design_manifesto.md)
+[![$19 Trillion Solution](https://img.shields.io/badge/💰_Vision-$19_Trillion_Solution-007FFF?style=flat-square&labelColor=0A0A0A)](docs/research/reality-check-19t-solution.md)
+[![NGO](https://img.shields.io/badge/🐰_NGO-ChaseWhiteRabbit-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-chase-white-rabbit-ngo)
 
 </div>
 
@@ -151,6 +154,48 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
 - **$19 trillion**: Australia's national wealth that could fund universal basic services
 - **Zero**: The number of people who should live in poverty in a wealthy nation
 - **100%**: The percentage of problems that have systemic solutions
+
+## 🔮 Tiation Ecosystem
+
+<div align="center">
+
+### **Enterprise-Grade Solutions for Social Impact**
+
+*Explore our interconnected ecosystem of repositories designed to transform systems*
+
+</div>
+
+#### 🌟 **[TiaAstor](https://github.com/TiaAstor/TiaAstor)** - Personal Brand & Story
+[![TiaAstor](https://img.shields.io/badge/🌟_Personal_Brand-Criminology_%E2%86%92_Psychology_%E2%86%92_Technology-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/TiaAstor/TiaAstor)
+
+Tia's professional journey combining criminology, psychology, and cutting-edge technology to create compassionate systems that bring hope and empowerment to communities.
+
+#### 🐰 **[ChaseWhiteRabbit NGO](https://github.com/tiation/tiation-chase-white-rabbit-ngo)** - Social Impact
+[![ChaseWhiteRabbit](https://img.shields.io/badge/🐰_Social_Impact-Transforming_Grief_Into_Change-FF00FF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-chase-white-rabbit-ngo)
+
+NGO that transforms grief into systemic change through sustainable technology solutions, featuring the flagship GriefToDesign platform and $19 trillion wealth redistribution analysis.
+
+#### 🏗️ **[Rigger Infrastructure](https://github.com/tiation/tiation-rigger-infrastructure)** - Technical Foundation
+[![Infrastructure](https://img.shields.io/badge/🏗️_Infrastructure-Terraform_%E2%86%92_Kubernetes_%E2%86%92_CI%2FCD-007FFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-rigger-infrastructure)
+
+Enterprise-grade infrastructure automation platform powering the entire Tiation ecosystem with scalable, secure, and maintainable deployment solutions.
+
+#### 🤖 **[AI Agents](https://github.com/tiation/tiation-ai-agents)** - Intelligent Automation
+[![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-React_Native_%E2%86%92_ML_%E2%86%92_Automation-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-ai-agents)
+
+AI-powered automation platform featuring cross-platform mobile applications, web dashboards, and comprehensive workflow management for enterprise deployment.
+
+#### 📝 **[CMS Platform](https://github.com/tiation/tiation-cms)** - Content Management
+[![CMS](https://img.shields.io/badge/📝_CMS-Multi_Tenant_%E2%86%92_API_First_%E2%86%92_Enterprise-FF00FF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-cms)
+
+Enterprise content management system with multi-tenant architecture, comprehensive business planning, and revenue-generating capabilities.
+
+#### ⚡ **[Terminal Workflows](https://github.com/tiation/tiation-terminal-workflows)** - Developer Tools
+[![Terminal](https://img.shields.io/badge/⚡_Terminal-Warp_Workflows_%E2%86%92_Automation_%E2%86%92_Enterprise-007FFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-terminal-workflows)
+
+Enterprise productivity and automation tools featuring custom Warp terminal workflows, automation scripts, and developer productivity enhancements.
+
+---
 
 ## Join the Movement
 
