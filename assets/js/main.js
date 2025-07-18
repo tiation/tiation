@@ -1,6 +1,35 @@
 // Main JavaScript for Tiation site
 
 document.addEventListener('DOMContentLoaded', function() {
+    // Dark mode toggle functionality
+    const themeToggle = document.getElementById('theme-toggle');
+    const themeIcon = document.getElementById('theme-icon');
+    const html = document.documentElement;
+    
+    // Check for saved theme preference or default to light mode
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    
+    // Apply saved theme
+    if (savedTheme === 'dark') {
+        html.classList.add('dark');
+        themeIcon.classList.remove('fa-moon');
+        themeIcon.classList.add('fa-sun');
+    }
+    
+    // Toggle theme
+    themeToggle.addEventListener('click', function() {
+        html.classList.toggle('dark');
+        
+        if (html.classList.contains('dark')) {
+            themeIcon.classList.remove('fa-moon');
+            themeIcon.classList.add('fa-sun');
+            localStorage.setItem('theme', 'dark');
+        } else {
+            themeIcon.classList.remove('fa-sun');
+            themeIcon.classList.add('fa-moon');
+            localStorage.setItem('theme', 'light');
+        }
+    });
     // Smooth scroll for navigation links
     const navLinks = document.querySelectorAll('a[href^="#"]');
     navLinks.forEach(link => {
