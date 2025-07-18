@@ -1,25 +1,31 @@
 # GitHub Pages Configuration
-title: Tiation - Transforming Systems for Human Flourishing
-description: A unified platform for systemic change and human flourishing
-url: https://tiation.github.io
-baseurl: /tiation
+title: "tiation"
+description: "Enterprise-grade solution in the Tiation ecosystem"
+url: "https://tiation.github.io/tiation"
+baseurl: ""
 
-# Build settings
+# Theme
+theme: minima
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
 
-# Exclude files from processing
-exclude:
-  - README.md
-  - package.json
-  - pnpm-workspace.yaml
-  - turbo.json
-  - setup-github-pages.sh
-  - node_modules
-  - .git
-  - .gitignore
-  - api/
-  - apps/
-  - infrastructure/
-  - packages/
-  - scripts/
+# Dark neon theme
+custom_css: |
+  :root {
+    --primary-color: #00ffff;
+    --secondary-color: #ff00ff;
+    --background-color: #0a0a0a;
+    --text-color: #ffffff;
+    --accent-color: #00ff88;
+  }
+  
+  body {
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+    color: var(--text-color);
+  }
