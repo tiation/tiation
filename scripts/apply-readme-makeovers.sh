@@ -5,6 +5,13 @@
 
 set -e
 
+# Check if bash version supports associative arrays
+if [ ${BASH_VERSION:0:1} -lt 4 ]; then
+    echo "This script requires Bash 4.0 or higher for associative arrays."
+    echo "Current version: $BASH_VERSION"
+    exit 1
+fi
+
 # Colors for output
 RED='\033[0;31m'
 GREEN='\033[0;32m'
