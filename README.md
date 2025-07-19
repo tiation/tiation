@@ -11,7 +11,7 @@
 [![🌐_Live_Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-00FFFF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation)
 [![📚_Documentation](https://img.shields.io/badge/📚_Documentation-Complete-007FFF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation)
 [![🏗️_Architecture](https://img.shields.io/badge/🏗️_Architecture-Diagram-FF00FF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation/architecture)
-[![⚡_Status](https://img.shields.io/badge/⚡_Status-Active Development-FF00FF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation)
+[![⚡_Status](https://github.com/tiation/tiation)
 [![📄_License](https://img.shields.io/badge/📄_License-MIT-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation/blob/main/LICENSE)
 
 </div>
