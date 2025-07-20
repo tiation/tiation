@@ -386,7 +386,7 @@ This repository is part of the Tiation ecosystem. Explore related projects:
 - [⚡ Terminal Workflows](https://github.com/tiation/tiation-terminal-workflows) - Developer tools
 - [🐳 Docker Solutions](https://github.com/tiation/tiation-docker-debian) - Container orchestration
 - [📝 CMS](https://github.com/tiation/tiation-cms) - Content management system
-- [🐰 ChaseWhiteRabbit NGO](https://github.com/tiation/tiation-chase-white-rabbit-ngo) - Social impact initiatives
+- [🐰 ChaseWhiteRabbit](https://github.com/ChaseWhiteRabbit/business) - Social impact organization
 - [🏗️ Infrastructure](https://github.com/tiation/tiation-rigger-infrastructure) - Enterprise infrastructure
 
 ---
